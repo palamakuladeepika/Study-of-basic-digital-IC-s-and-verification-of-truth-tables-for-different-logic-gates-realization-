@@ -91,5 +91,5 @@ RTL realization
 ![rtl](https://user-images.githubusercontent.com/94154679/195986473-bcadb118-f2a6-421d-9eaf-2b80bb2ff477.jpg)
 
 
-Result:
+### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
